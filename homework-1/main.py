@@ -40,4 +40,3 @@ load_data_from_csv('employees_data.csv', 'employees')
 load_data_from_csv('customers_data.csv', 'customers')
 load_data_from_csv('orders_data.csv', 'orders')
 
-
